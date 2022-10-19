@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho como SysAdmin/DevOps no Departamento de Controle de Espaço Aéreo
 - 👨‍🎓 Sou formado em Sistemas para Internet.
-- 👨‍🎓 Estou cursando Pós-graduação em Projetos de Cloud Computing.
+- 👨‍🎓 Pós-graduação em Projetos de Cloud Computing.
 -->
 
 <div align="center">
