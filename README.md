@@ -37,6 +37,8 @@
   <a href="https://doc.traefik.io/traefik/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Traefik-Proxy.svg" width="40" height="40"/> </a>
   <a href="https://www.haproxy.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" width="40" height="40"/> </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" height="40"/> </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/> </a>
   
 </p>
 
