@@ -10,9 +10,11 @@
 
 ### Sobre Mim
 
-- 🔭 Hoje eu trabalho como **SysAdmin/DevOps** no Departamento de Controle de Espaço Aéreo.
-- 👨‍🎓 Sou formado em **Sistemas para Internet**.
-- 👨‍🎓 Pós-graduação em **Projetos de Cloud Computing**.
+- 🔭 Atualmente, atuo como SysAdmin/DevOps no Departamento de Controle de Espaço Aéreo, onde trabalho com tecnologia e inovação.
+- 👨‍🎓 Sou graduado em Sistemas para Internet, o que me permitiu construir uma sólida base em desenvolvimento e infraestrutura.
+- 👨‍🎓 Tenho uma especialização em Projetos de Cloud Computing, focando na implementação e otimização de soluções em nuvem.
+- 🚴‍♂️ Nos meus momentos livres, gosto de andar de bicicleta e correr, atividades que me ajudam a relaxar e manter a mente focada.
+- 🎨 Além disso, sou apaixonado por animação em 2D, e adoro dedicar um tempo para criar e animar desenhos como um hobby criativo.
 
 ---
 
