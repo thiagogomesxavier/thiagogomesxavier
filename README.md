@@ -1,4 +1,7 @@
-### Olá, sejam bem vindos ao meu perfil do Github 👋
+<!-- Banner de Tecnologia -->
+<div align="center">
+  <img src="https://cdn.prod.website-files.com/654a4caad22756eef09a9ed1/654a4cabd22756eef09abbc0_integration%20testing%20in%20DevOps.png" alt="Tech Banner" width="100%" />
+</div>
 
 <h1 align="center">Oi 👋, Me chamo Thiago Gomes</h1>
 <h3 align="center">SysAdmin/DevOps</h3>
@@ -38,7 +41,6 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/> </a>
-  
 </p>
 
 ---
